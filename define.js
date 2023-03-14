@@ -1,0 +1,1 @@
+const freedom = 22;
